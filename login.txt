@@ -10,3 +10,7 @@ Location
 
 
 Address:
+
+Stat:
+
+Country:
