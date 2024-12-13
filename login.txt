@@ -1,0 +1,12 @@
+User login Details:
+
+User Name
+
+Addhar Number
+
+Mobile Number
+
+Location
+
+
+Address:
